@@ -1,6 +1,6 @@
 {
     "name": "licenses-utils",
-    "version": "0.0.0",
+    "version": "0.0.1",
     "homepage": "https://github.com/SamyPesse/licenses-utils",
     "description": "Utilities to detect licenses from project",
     "main": "lib/index.js",
