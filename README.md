@@ -10,10 +10,22 @@ $ npm install licenses-utils
 
 ### How to use it?
 
+Include the library:
+
 ```
 var licenses = require("licenses-utils");
+```
 
-licenses.detect("./project", function(err, license) {
+Detect from a folder
+
+```
+licenses.detectFolder("./project", function(err, license) {
 
 });
+```
+
+Detect from a string
+
+```
+var license = licenses.detect("...");
 ```
