@@ -23,6 +23,28 @@
         ]
     },
     {
+        "id": "unlicense",
+        "title": "Public Domain (Unlicense)",
+        "description": "Because copyright is automatic in most countries, <a href=\"http://unlicense.org\">the Unlicense</a> is a template to waive copyright interest in software you've written and dedicate it to the public domain. Use the Unlicense to opt out of copyright entirely. It also includes the no-warranty statement from the MIT/X11 license.",
+        "category": "Public Domain Dedication",
+        "types": [
+            "software",
+            "book"
+        ],
+        "url": "http://unlicense.org/UNLICENSE",
+        "required": [],
+        "permitted": [
+            "private-use",
+            "commercial-use",
+            "modifications",
+            "distribution",
+            "sublicense"
+        ],
+        "forbidden": [
+            "no-liability"
+        ]
+    },
+    {
         "id": "fdl-v1_3",
         "title": "GNU FDL v1.3",
         "description": "The GNU FDL is a widely-used copylrft license for free documentation, designed by the Free Software Foundation to complement the GPL. When distributing derived works, the sources and text of the work must be made available under the same license.",
@@ -255,28 +277,6 @@
         ]
     },
     {
-        "id": "unlicense",
-        "title": "Public Domain (Unlicense)",
-        "description": "Because copyright is automatic in most countries, <a href=\"http://unlicense.org\">the Unlicense</a> is a template to waive copyright interest in software you've written and dedicate it to the public domain. Use the Unlicense to opt out of copyright entirely. It also includes the no-warranty statement from the MIT/X11 license.",
-        "category": "Public Domain Dedication",
-        "types": [
-            "software",
-            "book"
-        ],
-        "url": "http://unlicense.org/UNLICENSE",
-        "required": [],
-        "permitted": [
-            "private-use",
-            "commercial-use",
-            "modifications",
-            "distribution",
-            "sublicense"
-        ],
-        "forbidden": [
-            "no-liability"
-        ]
-    },
-    {
         "id": "mit",
         "title": "MIT License",
         "description": "A permissive license that is short and to the point. It lets people do anything with your code with proper attribution and without warranty.",
@@ -330,7 +330,8 @@
         "description": "The Creative Commons Attribution License permits people to re-share and adapt your work, so long as they correctly attribute the original work to the original author and indicate any changes made.",
         "category": "Creative Commons",
         "types": [
-            "software"
+            "software",
+            "book"
         ],
         "url": "https://creativecommons.org/licenses/by/4.0/legalcode",
         "required": [
@@ -354,7 +355,8 @@
         "description": "The Creative Commons Attribution-ShareAlike License permits people to re-share and adapt your work, so long as they correctly attribute the original work to the original author and indicate any changes made, and adaptations must use the same license.",
         "category": "Creative Commons",
         "types": [
-            "software"
+            "software",
+            "book"
         ],
         "url": "https://creativecommons.org/licenses/by-sa/4.0/legalcode",
         "required": [
@@ -378,7 +380,8 @@
         "description": "The Creative Commons Attribution-NoDerivatives License permits people to re-share your work, so long as they correctly attribute the original work to the original author, but not to share changes they've made.",
         "category": "Creative Commons",
         "types": [
-            "software"
+            "software",
+            "book"
         ],
         "url": "https://creativecommons.org/licenses/by-nd/4.0/legalcode",
         "required": [
@@ -402,7 +405,8 @@
         "description": "The Creative Commons Attribution-ShareAlike License permits people to re-share and adapt your work, so long as they correctly attribute the original work to the original author and indicate any changes made, and adaptations must use the same license, but the work cannot be used for commercial purposes.",
         "category": "Creative Commons",
         "types": [
-            "software"
+            "software",
+            "book"
         ],
         "url": "https://creativecommons.org/licenses/by-nc/4.0/legalcode",
         "required": [
@@ -426,7 +430,8 @@
         "description": "The Creative Commons Attribution-NonCommercial-ShareAlike License permits people to re-share and adapt your work, so long as they correctly attribute the original work to the original author and indicate any changes made, and adaptations must use the same license, but the work can not be used for commercial purposes.",
         "category": "Creative Commons",
         "types": [
-            "software"
+            "software",
+            "book"
         ],
         "url": "https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode",
         "required": [
@@ -450,7 +455,8 @@
         "description": "The Creative Commons Attribution-NonCommercial-NoDerivatives License permits people to re-share your work, so long as they correctly attribute the original work to the original author, but not to share changes they've made, and not to be used for commercial purposes.",
         "category": "Creative Commons",
         "types": [
-            "software"
+            "software",
+            "book"
         ],
         "url": "https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode",
         "required": [
@@ -474,7 +480,8 @@
         "description": "The <a href=\"http://creativecommons.org/publicdomain/zero/1.0/\">Creative Commons CC0 Public Domain Dedication</a> waives copyright interest in any a work you've created and dedicates it to the world-wide public domain. Use CC0 to opt out of copyright entirely and ensure your work has the widest reach. As with the Unlicense and typical software licenses, CC0 disclaims warranties. CC0 is very similar to the Unlicense.",
         "category": "Public Domain Dedication",
         "types": [
-            "software"
+            "software",
+            "book"
         ],
         "url": "http://creativecommons.org/publicdomain/zero/1.0/",
         "required": [],
