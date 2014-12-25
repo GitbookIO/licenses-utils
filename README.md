@@ -1,6 +1,6 @@
 # Licenses Utilities
 
-[![Build Status](https://travis-ci.org/SamyPesse/licenses-utils.png?branch=master)](https://travis-ci.org/SamyPesse/licenses-utils)
+[![Build Status](https://travis-ci.org/GitbookIO/licenses-utils.png?branch=master)](https://travis-ci.org/GitbookIO/licenses-utils)
 [![NPM version](https://badge.fury.io/js/licenses-utils.svg)](http://badge.fury.io/js/licenses-utils)
 
 This node package contains multiple utilies to manage licenses: detect, list, ...

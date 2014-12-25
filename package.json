@@ -1,7 +1,7 @@
 {
     "name": "licenses-utils",
     "version": "0.1.1",
-    "homepage": "https://github.com/SamyPesse/licenses-utils",
+    "homepage": "https://github.com/GitbookIO/licenses-utils",
     "description": "Utilities to detect licenses from project",
     "main": "lib/index.js",
     "dependencies": {
@@ -15,14 +15,14 @@
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/SamyPesse/licenses-utils.git"
+        "url": "https://github.com/GitbookIO/licenses-utils.git"
     },
     "keywords": [
         "licenses"
     ],
-    "author": "Samy Pessé <samypesse@gmail.com>",
+    "author": "Samy Pessé <samy@gitbook.com>",
     "license": "Apache 2",
     "bugs": {
-        "url": "https://github.com/SamyPesse/licenses-utils/issues"
+        "url": "https://github.com/GitbookIO/licenses-utils/issues"
     }
 }
